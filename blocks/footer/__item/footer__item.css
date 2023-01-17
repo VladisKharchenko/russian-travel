@@ -1,14 +1,14 @@
-.footer__part {
+.footer__item {
   margin-right: 18px;
 }
 
-@media (max-width: 768px) {
-  .footer__part {
+@media (max-width: 767px) {
+  .footer__item {
     margin-bottom: 32px;
     margin-right: 0;
   }
 
-  .footer__part:last-of-type {
+  .footer__item:last-of-type {
     margin-bottom: 48px;
   }
 }

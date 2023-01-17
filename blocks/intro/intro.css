@@ -3,7 +3,7 @@
   margin: 92px auto 0;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1279px) {
   .intro {
     margin-right: 0;
     margin-bottom: 0;
@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .intro {
     margin-top: 88px;
     margin-left: 24px;
@@ -20,7 +20,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro {
     margin-top: 64px;
     margin-left: 16px;
